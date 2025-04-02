@@ -2,6 +2,10 @@
 
 [TOC]
 
+
+* TOC
+{:toc}
+
 test
 **这是一个测试升级，更新编码为UTF-8，made by csy_x @ 2020.4.9 19:12**
 
